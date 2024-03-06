@@ -46,7 +46,13 @@
             android:height="70dp"
             android:text="Cambiar a Activity 2" />
 
-
+        <Button
+            android:id="@+id/buttonGoToLogin"
+            android:layout_width="150dp"
+            android:layout_height="70dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:text="Accede a login" />
     </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "961674100691",
+    "project_id": "actividad5pmdm",
+    "storage_bucket": "actividad5pmdm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961674100691:android:b1f2d9ed0c1ab934aab926",
+        "android_client_info": {
+          "package_name": "com.example.actividad5pmdm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ5Vh6PnahtewHVU5BN6B9bGDMJ-DAWWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
